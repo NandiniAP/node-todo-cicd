@@ -1,4 +1,4 @@
-Run these commands:
+Run these command on instance:
 
 sudo apt install nodejs
 
